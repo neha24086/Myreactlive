@@ -1,0 +1,59 @@
+.mainB {
+  background-color: hsl(0, 3%, 93%);
+  margin: 0;
+  padding: 0;
+  border-radius: 50px;
+  margin-right: 110px;
+  margin-left: 100px;
+  text-align: center;
+}
+
+.task1 {
+  background-color: rgb(75, 4, 105);
+  height: 500px;
+  width: 180px;
+  justify-content: center;
+  padding-right: 60px;
+  margin-left: 300px;
+}
+.box1 {
+  background-color: white;
+  border-color: yellow;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  margin-left: 80px;
+  border-radius: 30%;
+  border-style: solid;
+  margin-top: 20px;
+}
+
+.box2 {
+  background-color: rgb(8, 168, 8);
+  height: 250px;
+  width: 250px;
+  border-width: 3px;
+  margin-right: 100px;
+  text-align: center;
+  border-radius: 50%;
+  margin-left: 370px;
+  margin-top: -250px;
+}
+
+.btn {
+  background-color: rgb(33, 236, 15);
+  margin-left: 800px;
+  border-radius: 5px;
+  margin-top: -80px;
+  padding: 10px 24px;
+  color: black;
+  display: inline-block;
+}
+.non1 {
+  position: absolute;
+  top: 60%;
+}
+.AB1 {
+  color: rgb(75, 4, 105);
+  text-decoration: underline;
+}
